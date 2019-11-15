@@ -119,7 +119,7 @@ public class tampilan {
     
     
     public static void separatorLine() {
-        System.out.println("-----------------------------");
+        System.out.println("------------------------------");
     }
     
     public static void separator() {
